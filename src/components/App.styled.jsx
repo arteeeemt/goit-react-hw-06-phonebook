@@ -10,7 +10,7 @@ export const LabelStyle = styled.label`
     justify-content: space-between;
     align-items: center;
     display: flex;
-    padding: 4px 5px;
+    padding: 5px 5px;
 `;
 
 export const InputStyle = styled.input `
